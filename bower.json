@@ -20,10 +20,10 @@
     "tests"
   ],
   "dependencies": {
-    "angular": " angular#1.4.12",
-    "angular-loader": "~1.4.0",
-    "angular-mocks": "~1.4.0",
-    "angular-route": "~1.4.0",
+    "angular": " angular#1.5.7",
+    "angular-loader": "~1.5.7",
+    "angular-mocks": "~1.5.7",
+    "angular-route": "~1.5.7",
     "cytoscape": "~2.6.1"
   }
 }
